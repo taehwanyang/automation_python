@@ -1,6 +1,4 @@
 # automation_python
-automation with python mini projects and examples
+automation with python real examples
 
-## mini-projects
 ## real-examples
-## practice
